@@ -7,8 +7,12 @@ npm start
 ```
 
 ## Video
+here is a video of the front end
+https://www.youtube.com/watch?v=lx3d7pgbYEQ
 
-https://www.youtube.com/watch?v=eqay-fTEl3Q
+here is a video of the SMS interaction
+
+https://www.youtube.com/watch?v=xkU6HanreOA
 
 ## VsCode Extensions
 
